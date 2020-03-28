@@ -1,2 +1,3 @@
-# qinmengluan-gmail.com
-Pandas
+# Pandas
+## Logistic regression
+## Neural networks
