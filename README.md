@@ -7,6 +7,6 @@
 * Solution: https://www.kaggle.com/startupsci/titanic-data-science-solutions
 ## Happy Workforce
 * [Happy Workforce](https://github.com/QinmengLUAN/Pandas_practice/tree/master/predict-employee-ausentism)
-## etc.
+## Algorithm implementation etc.
 * [Andrew Ng: Logistic regression](https://github.com/QinmengLUAN/Pandas_practice/blob/master/Logistic_regression_Moe.ipynb)
 * [GS_Circle_rectangle_probability problem](https://github.com/QinmengLUAN/Pandas_practice/blob/master/GS_Circle_rectangle_prob.ipynb)
